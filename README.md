@@ -1,17 +1,33 @@
-# CapyToolkit
+<div align="center">
+  <img src="https://capytoolkit.com/apple-touch-icon.png" width="100" height="100" alt="CapyToolkit">
 
-Browser-based utility tools for developers, hardware diagnostics, and security work.
-Everything runs client-side. No uploads, no accounts.
+  <h1>CapyToolkit</h1>
 
-**[capytoolkit.com](https://capytoolkit.com)** &nbsp;·&nbsp; [Blog](https://capytoolkit.com/blog/)
+  <p>Most browser tools send your data to a server. These don't.</p>
 
-<br>
+  <p>
+    Browser-based utility tools for developers, hardware diagnostics, and security work.<br>
+    Everything runs client-side. No uploads, no accounts.
+  </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-capytoolkit-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/capytoolkit) &nbsp;[![X](https://img.shields.io/badge/X-CapyToolkit-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/CapyToolkit) &nbsp;[![Bluesky](https://img.shields.io/badge/Bluesky-capytoolkit.com-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/capytoolkit.com)
+  <p>
+    <strong><a href="https://capytoolkit.com">capytoolkit.com</a></strong> &nbsp;·&nbsp;
+    <a href="https://capytoolkit.com/blog/">Blog</a>
+  </p>
 
-<br>
+  <p>
+    <a href="https://github.com/capytoolkit"><img src="https://img.shields.io/badge/GitHub-capytoolkit-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+    &nbsp;
+    <a href="https://x.com/CapyToolkit"><img src="https://img.shields.io/badge/X-CapyToolkit-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+    &nbsp;
+    <a href="https://bsky.app/profile/capytoolkit.com"><img src="https://img.shields.io/badge/Bluesky-capytoolkit.com-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a>
+  </p>
 
-[![Buy me a watermelon](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+watermelon&emoji=%F0%9F%8D%89&slug=capytoolkit&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFFFFF)](https://buymeacoffee.com/capytoolkit)
+  <a href="https://buymeacoffee.com/capytoolkit">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+watermelon&emoji=%F0%9F%8D%89&slug=capytoolkit&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFFFFF" alt="Buy me a watermelon">
+  </a>
+
+</div>
 
 ---
 
@@ -174,6 +190,16 @@ Everything runs client-side. No uploads, no accounts.
 <tr><td>MIME Type Reference <em>(coming)</em></td><td>Searchable MIME database with extension mapping and RFC sources</td></tr>
 </tbody>
 </table>
+
+---
+
+## Recent posts
+
+- [Debugging 500 MB+ Application Logs in the Browser Without Uploading](https://capytoolkit.com/blog/developer-tools/debugging-500-mb-application-logs-in-the-browser-without-uploading/)
+- [Counting Prompt Tokens Locally Before Sending to GPT, Claude, and Gemini](https://capytoolkit.com/blog/developer-tools/counting-prompt-tokens-locally-gpt-claude-gemini/)
+- [Debugging and Exploring Parquet Files with Local SQL Queries](https://capytoolkit.com/blog/developer-tools/debugging-and-exploring-parquet-files-with-local-sql-queries/)
+- [Testing WebRTC Peer-to-Peer Connection Quality Without Cloud Relay Servers](https://capytoolkit.com/blog/developer-tools/testing-webrtc-peer-peer-connection-quality-cloud-relay-servers/)
+- [Home Studio Decibel Calibration: Accurate SPL Measurement and Noise Floor Analysis Without Uploads](https://capytoolkit.com/blog/audio/home-studio-decibel-calibration-spl-measurement-noise-floor-analysis/)
 
 ---
 
