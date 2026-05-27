@@ -20,6 +20,8 @@
     &nbsp;
     <a href="https://x.com/CapyToolkit"><img src="https://img.shields.io/badge/X-CapyToolkit-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
     &nbsp;
+    <a href="https://www.reddit.com/user/CapyToolkit/"><img src="https://img.shields.io/badge/Reddit-CapyToolkit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
+    &nbsp;
     <a href="https://bsky.app/profile/capytoolkit.com"><img src="https://img.shields.io/badge/Bluesky-capytoolkit.com-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a>
   </p>
 
@@ -195,11 +197,12 @@
 
 ## Recent posts
 
-- [Debugging 500 MB+ Application Logs in the Browser Without Uploading](https://capytoolkit.com/blog/developer-tools/debugging-500-mb-application-logs-in-the-browser-without-uploading/)
-- [Counting Prompt Tokens Locally Before Sending to GPT, Claude, and Gemini](https://capytoolkit.com/blog/developer-tools/counting-prompt-tokens-locally-gpt-claude-gemini/)
-- [Debugging and Exploring Parquet Files with Local SQL Queries](https://capytoolkit.com/blog/developer-tools/debugging-and-exploring-parquet-files-with-local-sql-queries/)
-- [Testing WebRTC Peer-to-Peer Connection Quality Without Cloud Relay Servers](https://capytoolkit.com/blog/developer-tools/testing-webrtc-peer-peer-connection-quality-cloud-relay-servers/)
-- [Home Studio Decibel Calibration: Accurate SPL Measurement and Noise Floor Analysis Without Uploads](https://capytoolkit.com/blog/audio/home-studio-decibel-calibration-spl-measurement-noise-floor-analysis/)
+- [Headphone Buying Guide: How to Test Frequency Response, Channel Balance, and Latency Before You Commit](https://capytoolkit.com/blog/buying-guides/headphone-buying-guide-test-frequency-response-channel-balance-latency/)
+- [Hash Functions in the Browser: How to Use CapyToolkit's Client-Side Hash Generator for Integrity Checks and HMAC Signatures](https://capytoolkit.com/blog/developer-tools/hash-functions-browser-capytoolkit-hash-generator-integrity-hmac/)
+- [Gaming Peripheral Specs You Can Verify in the Mouse, Controller, and Webcam](https://capytoolkit.com/blog/buying-guides/gaming-peripheral-specs-you-can-verify-mouse-controller-webcam/)
+- [Base64 Encoding Without the Cloud: What Your Browser Handles Locally](https://capytoolkit.com/blog/developer-tools/base64-encoding-without-the-cloud-what-your-browser-handles-locally/)
+- [Submitting URLs to Search Engines via IndexNow Without a CMS Plugin](https://capytoolkit.com/blog/guides/submitting-urls-to-search-engines-via-indexnow-without-a-cms-plugin/)
+- [Achieving Perfect Audio-Video Sync in OBS Streams Using CapyToolkit's Webcam A/V Sync & Latency Meter](https://capytoolkit.com/blog/hardware/capytoolkit-webcam-audio-video-sync-latency-meter-obs/)
 
 ---
 
