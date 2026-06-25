@@ -207,12 +207,12 @@
 
 ## Recent posts
 
-- [Build CSS Gradients Visually Without Sending Design Data to a Server](https://capytoolkit.com/blog/guides/build-css-gradients-visually-without-sending-design-data-to-a-server/)
-- [Percent-Encoding Rules Every API Developer Should Know, and When to Apply Them](https://capytoolkit.com/blog/security-privacy/url-encoder-decoder-capytoolkit-what-it-does-who-needs-it/)
-- [Network Diagnostics Without Cloud APIs: Subnet Planning, P2P Testing, and URL Inspection](https://capytoolkit.com/blog/guides/network-diagnostics-subnet-planning-p2p-testing-url-inspection/)
-- [Ohm's Law: Solving for Voltage, Current, and Resistance Without a Scientific Calculator](https://capytoolkit.com/blog/guides/ohms-law-solve-voltage-current-resistance-online/)
-- [Choosing an AI Model Based on Token Pricing and Context Window Fit](https://capytoolkit.com/blog/buying-guides/choosing-an-ai-model-based-on-token-pricing-and-context-window-fit/)
-- [How Java Developers Use Client-Side Case Conversion for Clean Code and Configuration Files](https://capytoolkit.com/blog/developer-tools/java-developers-use-client-side-case-conversion-clean-code-configuration-files/)
+- [What to Look for When Buying a Webcam, and How to Test It Before You Commit](https://capytoolkit.com/blog/buying-guides/what-look-buying-webcam-how-test-before-commit/) - Which webcam specs predict video-call quality, which are marketing filler, and how to test any webcam in your browser before the return window closes.
+- [What Happens to Your Prompt When You Use an Online Token Counter](https://capytoolkit.com/blog/developer-tools/what-happens-to-your-prompt-online-token-counter/) - Your prompt travels to a server you don't control before you get a token count. Here's what that means and how to count tokens locally across 37 AI models.
+- [How to Shop for a Microphone — Specs That Matter, Specs That Don't, and How to Verify Before You Buy](https://capytoolkit.com/blog/buying-guides/shop-for-microphone-specs-that-matter-verify-before-buying/) - Which microphone specs actually matter, which ones are marketing filler, and how to test any mic in your browser before you buy.
+- [What Password Entropy Actually Means and Why Your Passwords Are Weaker Than You Think](https://capytoolkit.com/blog/security-privacy/what-password-entropy-means-why-passwords-weaker-than-you-think/) - How Shannon entropy and zxcvbn pattern analysis expose the gap between perceived password strength and actual crack resistance.
+- [Build CSS Gradients Visually Without Sending Design Data to a Server](https://capytoolkit.com/blog/guides/build-css-gradients-visually-without-sending-design-data-to-a-server/) - Build linear, radial, and conic CSS gradients in your browser. Learn color stop control, OKLCH interpolation, angle coordinates, and multi-format output.
+- [Percent-Encoding Rules Every API Developer Should Know, and When to Apply Them](https://capytoolkit.com/blog/security-privacy/url-encoder-decoder-capytoolkit-what-it-does-who-needs-it/) - Percent-encoding rules for API developers: which characters need escaping, when to use encodeURIComponent, and how to fix unencoded-request failures.
 
 ---
 
