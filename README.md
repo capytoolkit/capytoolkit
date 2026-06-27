@@ -12,7 +12,8 @@
 
   <p>
     <strong><a href="https://capytoolkit.com">capytoolkit.com</a></strong> &nbsp;·&nbsp;
-    <a href="https://capytoolkit.com/blog/">Blog</a>
+    <a href="https://capytoolkit.com/blog/">Blog</a> &nbsp;·&nbsp;
+    <a href="https://capytoolkit.com/changelog/">Changelog</a>
   </p>
 
   <p>
