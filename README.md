@@ -71,7 +71,7 @@
 <tbody>
 <tr><td><a href="https://capytoolkit.com/tools/developer/jwt-decoder/">JWT Decoder</a></td><td>Inspect header, payload, and expiry of any JWT token</td><td>2026-04-24</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/cron-parser/">Cron Expression Parser</a></td><td>Translate cron syntax to plain English with next-run preview</td><td>2026-04-25</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/developer/base64/">Base64 Encoder / Decoder</a></td><td>Encode and decode text or files to Base64</td><td>2026-05-06</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/developer/base64/">Base64 Decoder and Encoder</a></td><td>Encode and decode text or files to Base64</td><td>2026-05-06</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/sql-workbench/">SQL Data Workbench</a></td><td>Query local files with SQL: Parquet, Arrow, Feather, Avro, DBF, Excel, CSV, JSON</td><td>2026-05-16</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/log-explorer/">Big Log Explorer</a></td><td>Filter, search, and graph 500 MB+ log and JSONL files via Web Workers and IndexedDB</td><td>2026-05-19</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/token-counter/">Prompt Token Counter</a></td><td>Token count and context window usage for GPT-4o, Claude, and Gemini models</td><td>2026-05-19</td></tr>
@@ -208,12 +208,12 @@
 
 ## Recent posts
 
-- [Local-First Data Analysis in the Browser: SQL Workbench and Big Log Explorer for Zero-Upload Analytics](https://capytoolkit.com/blog/developer-tools/local-first-data-analysis-browser-sql-workbench-log-explorer/) - Run SQL on Parquet, CSV, and JSON in your browser, then combine it with Big Log Explorer for a zero-upload analytics stack that keeps your data local.
-- [Finding the Correct MIME Type for Any File Before You Serve or Upload It](https://capytoolkit.com/blog/developer-tools/finding-the-correct-mime-type-file-before-you-serve-upload-it/) - Look up the exact MIME type for any file, extension, or keyword, then copy a correct server directive, with no upload and no server round-trip.
-- [Polling Rate Reality Check: How to Measure Your Mouse Hz Locally Before You Trust That 8000Hz Claim](https://capytoolkit.com/blog/hardware/polling-rate-8000hz-mouse-test-reality-check-local-verify/) - Measure your mouse's actual polling rate locally in the browser before you buy based on an 8000Hz marketing claim.
-- [Reading HTTP Status Codes Like a Backend Engineer: A Local Reference Guide You Can Use Without a Network](https://capytoolkit.com/blog/developer-tools/reading-http-status-codes-backend-engineer-reference-guide-network/) - Learn to read HTTP status codes by class, distinguish confusing code pairs, and apply the right codes in API design and six popular frameworks.
-- [Letterboxing and Aspect Ratio Math for Video and Photo Crops](https://capytoolkit.com/blog/guides/letterboxing-aspect-ratio-math-video-photo-crops/) - Predict letterbox and pillarbox bar sizes before export, choose the right delivery ratio per platform, and verify dimensions with a client-side calculator.
-- [Building Accessible, Contrast-Safe Color Systems in CSS Using OKLCH and WCAG](https://capytoolkit.com/blog/guides/building-accessible-contrast-safe-color-systems-css-oklch-wcag/) - Learn to build a complete, contrast-safe color system in the browser with OKLCH and WCAG 2.1, from base color to CSS and Tailwind v4 tokens.
+- [Portable Power Station Claims Don't Add Up: How to Check the Math Yourself](https://capytoolkit.com/blog/guides/portable-power-station-claims-dont-add-up-check-math-yourself/) - Marketing specs obscure the real runtime. Use Ohm's Law and free browser math tools to verify power station capacity before you buy.
+- [Verifying LED Panel Driver Failures Before Desoldering: What Ohm's Law Covers That a Visual Inspection Misses](https://capytoolkit.com/blog/hardware/led-panel-driver-failures-verify-ohms-law-before-desoldering/) - Measure power-rail voltage, decode resistor markings, and compute expected dissipation to decide if your LED driver is worth repairing before desoldering.
+- [What Mechanical Keyboard Specs Actually Matter and How to Verify Them in Your Browser](https://capytoolkit.com/blog/buying-guides/mechanical-keyboard-specs-actually-matter-how-to-verify-browser/) - Which keyboard specs separate real improvements from marketing filler, and how to verify polling rate, debounce, and rollover claims before you buy.
+- [Wi-Fi 7 Router Buying Guide: What the Specs Actually Mean for Gaming and Streaming](https://capytoolkit.com/blog/buying-guides/wifi-7-router-buying-guide-specs-gaming-streaming/) - Decode Wi-Fi 7 spec sheets and learn which router features affect gaming latency, streaming stability, and NAT behavior.
+- [What to Look for in a VPN That Actually Protects Your Privacy](https://capytoolkit.com/blog/buying-guides/what-to-look-for-in-a-vpn-that-actually-protects-your-privacy/) - How to verify a VPN's privacy claims before subscribing, using browser-based network tools to test IP leaks, DNS routing, and tunnel integrity.
+- [Verifying Your Full Audio Signal Chain Before Every Recording Session](https://capytoolkit.com/blog/audio/verifying-your-full-audio-signal-chain-before-every-recording-session/) - A 5-step pre-session workflow using three browser tools to verify your microphone, speakers, room, and gain staging before recording or voice sessions.
 
 ---
 
