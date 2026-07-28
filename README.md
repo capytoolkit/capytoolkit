@@ -16,13 +16,15 @@
     <a href="https://capytoolkit.com/changelog/">Changelog</a>
   </p>
 
-  <a href="https://apps.microsoft.com/detail/9MXJ5T93CC31">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capytoolkit.com/badges/ms-store-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://capytoolkit.com/badges/ms-store-dark.svg">
-      <img src="https://capytoolkit.com/badges/ms-store-dark.svg" alt="Get CapyToolkit on Microsoft Store" height="40">
-    </picture>
-  </a>
+  <p>
+    <a href="https://apps.microsoft.com/detail/9MXJ5T93CC31">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://capytoolkit.com/badges/ms-store-light.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://capytoolkit.com/badges/ms-store-dark.svg">
+        <img src="https://capytoolkit.com/badges/ms-store-dark.svg" alt="Get CapyToolkit on Microsoft Store" height="40">
+      </picture>
+    </a>
+  </p>
 
   <p>
     <a href="https://github.com/capytoolkit"><img src="https://img.shields.io/badge/GitHub-capytoolkit-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -33,11 +35,12 @@
     &nbsp;
     <a href="https://bsky.app/profile/capytoolkit.com"><img src="https://img.shields.io/badge/Bluesky-capytoolkit.com-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a>
   </p>
-
-  <a href="https://buymeacoffee.com/capytoolkit">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+watermelon&emoji=%F0%9F%8D%89&slug=capytoolkit&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFFFFF" alt="Buy me a watermelon">
-  </a>
-
+  <p>
+    <a href="https://buymeacoffee.com/capytoolkit">
+      <img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+watermelon&emoji=%F0%9F%8D%89&slug=capytoolkit&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFFFFF" alt="Buy me a watermelon">
+    </a>
+  </p>
+  
 </div>
 
 ---
