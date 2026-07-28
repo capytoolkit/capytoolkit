@@ -16,6 +16,14 @@
     <a href="https://capytoolkit.com/changelog/">Changelog</a>
   </p>
 
+  <a href="https://apps.microsoft.com/detail/9MXJ5T93CC31">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://capytoolkit.com/badges/ms-store-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://capytoolkit.com/badges/ms-store-dark.svg">
+      <img src="https://capytoolkit.com/badges/ms-store-dark.svg" alt="Get CapyToolkit on Microsoft Store" height="40">
+    </picture>
+  </a>
+
   <p>
     <a href="https://github.com/capytoolkit"><img src="https://img.shields.io/badge/GitHub-capytoolkit-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
     &nbsp;
@@ -53,8 +61,8 @@
 <tr><td><a href="https://capytoolkit.com/tools/hardware/webcam-test/">Webcam Lighting & Framing Analyzer</a></td><td>Lighting balance, face framing, and resolution diagnostics</td><td>2026-04-22</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/hardware/midi-test/">Web MIDI Keyboard & Latency Tester</a></td><td>Dead keys, ghost notes, and USB-to-browser MIDI input latency</td><td>2026-04-24</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/hardware/gamepad-test/">Gamepad & Joystick Drift Tester</a></td><td>Analog stick drift, dead zone visualization, button diagnostics</td><td>2026-04-30</td></tr>
-<tr><td>Live Signal Debugger <em>(coming)</em></td><td>Real-time USB/Serial/Bluetooth signals from Arduino, sensors, MIDI controllers</td><td>2026-08*</td></tr>
-<tr><td>WebUSB Hardware Flasher <em>(coming)</em></td><td>Flash firmware to ESP32, Arduino, and Raspberry Pi Pico in-browser</td><td>2026-08*</td></tr>
+<tr><td>Live Signal Debugger <em>(coming)</em></td><td>Real-time USB/Serial/Bluetooth signals from Arduino, sensors, MIDI controllers</td><td>2026-09*</td></tr>
+<tr><td>WebUSB Hardware Flasher <em>(coming)</em></td><td>Flash firmware to ESP32, Arduino, and Raspberry Pi Pico in-browser</td><td>2026-09*</td></tr>
 </tbody>
 </table>
 
@@ -79,9 +87,9 @@
 <tr><td><a href="https://capytoolkit.com/tools/developer/uuid-generator/">UUID Generator</a></td><td>UUID v1, v4, and v7 in five display formats, cryptographically random</td><td>2026-06-28</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/json-formatter/">JSON Formatter & Validator</a></td><td>Pretty-print, minify, and validate JSON with syntax highlighting</td><td>2026-07-08</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/regex-tester/">Regex Tester</a></td><td>Live match highlighting and group capture view</td><td>2026-07-07</td></tr>
-<tr><td>Text / Code Diff Viewer <em>(coming)</em></td><td>Side-by-side and unified diff with line-level highlighting</td><td>2026-07*</td></tr>
-<tr><td>Binary Package Differ <em>(coming)</em></td><td>Diff two ZIP archives or build artifacts: file tree, size delta, byte-level changes</td><td>2026-07*</td></tr>
-<tr><td>WASM Binary Inspector <em>(coming)</em></td><td>Decompile WebAssembly to WAT, memory map, exports and imports</td><td>2026-07*</td></tr>
+<tr><td>Text / Code Diff Viewer <em>(coming)</em></td><td>Side-by-side and unified diff with line-level highlighting</td><td>2026-08*</td></tr>
+<tr><td>Binary Package Differ <em>(coming)</em></td><td>Diff two ZIP archives or build artifacts: file tree, size delta, byte-level changes</td><td>2026-08*</td></tr>
+<tr><td>WASM Binary Inspector <em>(coming)</em></td><td>Decompile WebAssembly to WAT, memory map, exports and imports</td><td>2026-08*</td></tr>
 </tbody>
 </table>
 
@@ -105,9 +113,9 @@
 <tr><td><a href="https://capytoolkit.com/tools/security/config-sanitizer/">Cloud Config Sanitizer</a></td><td>Validate Kubernetes, Terraform, and YAML manifests, detect secrets and security smells</td><td>2026-05-19</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/security/url-encoder/">URL Encoder / Decoder</a></td><td>Percent-encode and decode URLs and query strings with component parsing</td><td>2026-06-06</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/security/password-entropy/">Password Entropy Analyser</a></td><td>Shannon entropy, zxcvbn pattern analysis, and GPU crack-time estimates</td><td>2026-06-09</td></tr>
-<tr><td>Quantum-Safe Encryptor <em>(coming)</em></td><td>Post-quantum encryption and decryption via Kyber/Dilithium WASM</td><td>2026-07*</td></tr>
-<tr><td>Build Integrity Verifier <em>(coming)</em></td><td>SHA-256 and BLAKE3 artifact comparison with functional content diff</td><td>2026-07*</td></tr>
-<tr><td>Local Secret Scanner <em>(coming)</em></td><td>Scan code, configs, and ZIP archives for API keys, tokens, and credentials</td><td>2026-07*</td></tr>
+<tr><td>Quantum-Safe Encryptor <em>(coming)</em></td><td>Post-quantum encryption and decryption via Kyber/Dilithium WASM</td><td>2026-08*</td></tr>
+<tr><td>Build Integrity Verifier <em>(coming)</em></td><td>SHA-256 and BLAKE3 artifact comparison with functional content diff</td><td>2026-08*</td></tr>
+<tr><td>Local Secret Scanner <em>(coming)</em></td><td>Scan code, configs, and ZIP archives for API keys, tokens, and credentials</td><td>2026-08*</td></tr>
 </tbody>
 </table>
 
@@ -160,8 +168,8 @@
 <tbody>
 <tr><td><a href="https://capytoolkit.com/tools/text/readability-score/">Readability Analyser</a></td><td>Flesch-Kincaid Grade, Flesch Reading Ease, and SMOG with sentence-level highlights</td><td>2026-04-27</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/text/case-converter/">Case Converter</a></td><td>camelCase, snake_case, SCREAMING_SNAKE, kebab-case, Title Case, PascalCase</td><td>2026-05-07</td></tr>
-<tr><td>Reading Time Calculator <em>(coming)</em></td><td>Reading time estimate at adjustable WPM targets</td><td>2026-07*</td></tr>
-<tr><td>Markdown Preview <em>(coming)</em></td><td>Live-render Markdown with clean typeset output and copy-as-HTML export</td><td>2026-07*</td></tr>
+<tr><td>Reading Time Calculator <em>(coming)</em></td><td>Reading time estimate at adjustable WPM targets</td><td>2026-08*</td></tr>
+<tr><td>Markdown Preview <em>(coming)</em></td><td>Live-render Markdown with clean typeset output and copy-as-HTML export</td><td>2026-08*</td></tr>
 </tbody>
 </table>
 
@@ -208,13 +216,13 @@
 
 ## Recent posts
 
+- [What NPU TOPS Doesn't Tell You: How Memory Bandwidth Bounds Local LLM Performance](https://capytoolkit.com/blog/buying-guides/npu-tops-vs-memory-bandwidth-local-llm-ai-pc/) - Decode spec sheets to find memory bandwidth, not TOPS. Learn to evaluate NPU hardware for local LLM performance before you buy.
 - [Portable Power Station Claims Don't Add Up: How to Check the Math Yourself](https://capytoolkit.com/blog/guides/portable-power-station-claims-dont-add-up-check-math-yourself/) - Marketing specs obscure the real runtime. Use Ohm's Law and free browser math tools to verify power station capacity before you buy.
 - [Verifying LED Panel Driver Failures Before Desoldering: What Ohm's Law Covers That a Visual Inspection Misses](https://capytoolkit.com/blog/hardware/led-panel-driver-failures-verify-ohms-law-before-desoldering/) - Measure power-rail voltage, decode resistor markings, and compute expected dissipation to decide if your LED driver is worth repairing before desoldering.
 - [What Mechanical Keyboard Specs Actually Matter and How to Verify Them in Your Browser](https://capytoolkit.com/blog/buying-guides/mechanical-keyboard-specs-actually-matter-how-to-verify-browser/) - Which keyboard specs separate real improvements from marketing filler, and how to verify polling rate, debounce, and rollover claims before you buy.
 - [Wi-Fi 7 Router Buying Guide: What the Specs Actually Mean for Gaming and Streaming](https://capytoolkit.com/blog/buying-guides/wifi-7-router-buying-guide-specs-gaming-streaming/) - Decode Wi-Fi 7 spec sheets and learn which router features affect gaming latency, streaming stability, and NAT behavior.
 - [What to Look for in a VPN That Actually Protects Your Privacy](https://capytoolkit.com/blog/buying-guides/what-to-look-for-in-a-vpn-that-actually-protects-your-privacy/) - How to verify a VPN's privacy claims before subscribing, using browser-based network tools to test IP leaks, DNS routing, and tunnel integrity.
-- [Verifying Your Full Audio Signal Chain Before Every Recording Session](https://capytoolkit.com/blog/audio/verifying-your-full-audio-signal-chain-before-every-recording-session/) - A 5-step pre-session workflow using three browser tools to verify your microphone, speakers, room, and gain staging before recording or voice sessions.
 
 ---
 
-Built with [Astro](https://astro.build) and TypeScript. Installable as a PWA.
+Built with [Astro](https://astro.build) and TypeScript. Installable as a PWA on desktop and mobile, or as a native app via the [Microsoft Store](https://apps.microsoft.com/detail/9MXJ5T93CC31).
