@@ -85,7 +85,7 @@
 <tr><td><a href="https://capytoolkit.com/tools/developer/base64/">Base64 Decoder and Encoder</a></td><td>Encode and decode text or files to Base64</td><td>2026-05-06</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/sql-workbench/">SQL Data Workbench</a></td><td>Query local files with SQL: Parquet, Arrow, Feather, Avro, DBF, Excel, CSV, JSON</td><td>2026-05-16</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/log-explorer/">Big Log Explorer</a></td><td>Filter, search, and graph 500 MB+ log and JSONL files via Web Workers and IndexedDB</td><td>2026-05-19</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/developer/token-counter/">Prompt Token Counter</a></td><td>Token count and context window usage for GPT-4o, Claude, and Gemini models</td><td>2026-05-19</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/developer/token-counter/">Prompt Token Counter</a></td><td>Token count and context window usage for GPT-5.6, Claude Opus 5, Gemini 3.6, Kimi K3, and 33+ more models, with live daily pricing</td><td>2026-05-19</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/hash-generator/">Hash Generator</a></td><td>MD5, SHA-1, SHA-256, SHA-512, and HMAC computation</td><td>2026-05-20</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/uuid-generator/">UUID Generator</a></td><td>UUID v1, v4, and v7 in five display formats, cryptographically random</td><td>2026-06-28</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/json-formatter/">JSON Formatter & Validator</a></td><td>Pretty-print, minify, and validate JSON with syntax highlighting</td><td>2026-07-08</td></tr>
@@ -109,7 +109,7 @@
 <tbody>
 <tr><td><a href="https://capytoolkit.com/tools/security/hash-verifier/">File Hash Verifier</a></td><td>SHA-256, SHA-512, SHA-1, and MD5 checksums compared against a published hash</td><td>2026-04-23</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/security/exif-scrubber/">EXIF & Image Metadata Scrubber</a></td><td>Strip GPS coordinates, timestamps, and device data from images</td><td>2026-04-23</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/security/browser-fingerprint/">Browser Fingerprint Inspector</a></td><td>Canvas hash, WebGL renderer, audio fingerprint, fonts, and 30+ leak signals</td><td>2026-05-04</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/security/browser-fingerprint/">Browser Fingerprint & Privacy Leak Inspector</a></td><td>Canvas hash, WebGL renderer, audio fingerprint, fonts, and 30+ leak signals</td><td>2026-05-04</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/security/pii-scrubber/">PII Scrubber</a></td><td>Detect and tokenize PII, secrets, and internal data before sending to AI</td><td>2026-05-08</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/security/ocr-redactor/">Offline OCR & Document Redactor</a></td><td>Extract text and redact sensitive regions via Tesseract WASM</td><td>2026-05-13</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/security/cert-inspector/">X.509 Certificate Inspector</a></td><td>Validity, SANs, key algorithm, chain depth, and expiry from PEM or DER input</td><td>2026-05-19</td></tr>
@@ -219,12 +219,12 @@
 
 ## Recent posts
 
-- [What NPU TOPS Doesn't Tell You: How Memory Bandwidth Bounds Local LLM Performance](https://capytoolkit.com/blog/buying-guides/npu-tops-vs-memory-bandwidth-local-llm-ai-pc/) - Decode spec sheets to find memory bandwidth, not TOPS. Learn to evaluate NPU hardware for local LLM performance before you buy.
-- [Portable Power Station Claims Don't Add Up: How to Check the Math Yourself](https://capytoolkit.com/blog/guides/portable-power-station-claims-dont-add-up-check-math-yourself/) - Marketing specs obscure the real runtime. Use Ohm's Law and free browser math tools to verify power station capacity before you buy.
-- [Verifying LED Panel Driver Failures Before Desoldering: What Ohm's Law Covers That a Visual Inspection Misses](https://capytoolkit.com/blog/hardware/led-panel-driver-failures-verify-ohms-law-before-desoldering/) - Measure power-rail voltage, decode resistor markings, and compute expected dissipation to decide if your LED driver is worth repairing before desoldering.
-- [What Mechanical Keyboard Specs Actually Matter and How to Verify Them in Your Browser](https://capytoolkit.com/blog/buying-guides/mechanical-keyboard-specs-actually-matter-how-to-verify-browser/) - Which keyboard specs separate real improvements from marketing filler, and how to verify polling rate, debounce, and rollover claims before you buy.
-- [Wi-Fi 7 Router Buying Guide: What the Specs Actually Mean for Gaming and Streaming](https://capytoolkit.com/blog/buying-guides/wifi-7-router-buying-guide-specs-gaming-streaming/) - Decode Wi-Fi 7 spec sheets and learn which router features affect gaming latency, streaming stability, and NAT behavior.
-- [What to Look for in a VPN That Actually Protects Your Privacy](https://capytoolkit.com/blog/buying-guides/what-to-look-for-in-a-vpn-that-actually-protects-your-privacy/) - How to verify a VPN's privacy claims before subscribing, using browser-based network tools to test IP leaks, DNS routing, and tunnel integrity.
+- [Privacy-First Smart Home Cameras and Doorbells: Local Processing vs. Cloud, and What To Check](https://capytoolkit.com/blog/buying-guides/privacy-smart-home-cameras-doorbells-local-cloud-check/) - How to read past camera marketing and buy a smart home camera or doorbell that keeps footage local, from on-device AI to open protocols.
+- [How to Tell If a microSD Card or External SSD Is Fake or Slower Than Advertised](https://capytoolkit.com/blog/buying-guides/tell-if-microsd-card-external-ssd-fake-slower-advertised/) - How to catch counterfeit and underperforming storage before you lose data, using browser-based hash verification alongside native capacity and speed tools.
+- [Wide-Gamut Display Color Management for Web Designers: Converting Display P3 and Adobe RGB to sRGB in the Browser](https://capytoolkit.com/blog/guides/wide-gamut-display-color-management-web-designers/) - How wide-gamut displays create colors sRGB cannot represent, how browsers handle the mismatch, and how to verify colors stay in gamut before production.
+- [Hall-Effect Controllers Still Drift: How to Verify the "Drift-Free" Claim in Your Browser](https://capytoolkit.com/blog/buying-guides/hall-effect-controllers-still-drift-verify-drift-free-claim-browser/) - Paid extra for Hall-effect sticks? Read raw Gamepad API axis values in your browser to confirm whether your controller actually drifts.
+- [UUID v4 or v7 as a Primary Key: What Changes in Your Index, Your Logs, and Your URLs](https://capytoolkit.com/blog/developer-tools/uuid-v4-v7-as-primary-key-what-changes-your-index-your-logs-your-urls/) - The UUID version digit decides how your index absorbs writes, what a public identifier reveals, and how keys behave in logs and exports.
+- [Testing a New Soundbar with Browser Tools: Frequency Response, SPL, and Lip-Sync Checks You Can Run at Home](https://capytoolkit.com/blog/audio/testing-soundbar-browser-tools-frequency-response-spl-lip-sync-checks/) - Use three free browser tools to measure frequency response, SPL, and A/V sync on your soundbar. No lab gear, no uploads.
 
 ---
 
