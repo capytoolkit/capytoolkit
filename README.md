@@ -58,7 +58,7 @@
 </tr>
 </thead>
 <tbody>
-<tr><td><a href="https://capytoolkit.com/tools/hardware/monitor-test/">Monitor & Display Test Suite</a></td><td>Dead pixel patterns, backlight bleed, motion ghosting, fullscreen test modes</td><td>2026-04-15</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/hardware/monitor-test/">Dead Pixel & Flicker Test Suite</a></td><td>Backlight bleed, motion ghosting, and color banding checks, fullscreen test modes</td><td>2026-04-15</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/hardware/input-lag/">Input Lag & Mouse Polling Rate Tester</a></td><td>Browser input latency and mouse polling rate via PointerEvent API</td><td>2026-04-24</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/hardware/webcam-latency/">Webcam A/V Sync & Latency Meter</a></td><td>Millisecond offset between webcam and microphone, OBS-ready output</td><td>2026-05-20</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/hardware/webcam-test/">Webcam Lighting & Framing Analyzer</a></td><td>Lighting balance, face framing, and resolution diagnostics</td><td>2026-04-22</td></tr>
@@ -80,16 +80,16 @@
 </tr>
 </thead>
 <tbody>
-<tr><td><a href="https://capytoolkit.com/tools/developer/jwt-decoder/">JWT Decoder</a></td><td>Inspect header, payload, and expiry of any JWT token</td><td>2026-04-24</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/developer/cron-parser/">Cron Expression Parser</a></td><td>Translate cron syntax to plain English with next-run preview</td><td>2026-04-25</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/developer/base64/">Base64 Decoder and Encoder</a></td><td>Encode and decode text or files to Base64</td><td>2026-05-06</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/developer/jwt-decoder/">JWT Decoder & Claims Inspector</a></td><td>Decode header and payload, check expiry and claims</td><td>2026-04-24</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/developer/cron-parser/">Cron Expression Parser & Next-Run Preview</a></td><td>Translate cron syntax into plain English, see upcoming run times at a glance</td><td>2026-04-25</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/developer/base64/">Base64 Text & File Encoder/Decoder</a></td><td>Converts between raw data and Base64 entirely client-side, nothing uploaded</td><td>2026-05-06</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/sql-workbench/">SQL Data Workbench</a></td><td>Query local files with SQL: Parquet, Arrow, Feather, Avro, DBF, Excel, CSV, JSON</td><td>2026-05-16</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/log-explorer/">Big Log Explorer</a></td><td>Filter, search, and graph 500 MB+ log and JSONL files via Web Workers and IndexedDB</td><td>2026-05-19</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/token-counter/">Prompt Token Counter</a></td><td>Token count and context window usage for GPT-5.6, Claude Opus 5, Gemini 3.6, Kimi K3, and 33+ more models, with live daily pricing</td><td>2026-05-19</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/hash-generator/">Hash Generator</a></td><td>MD5, SHA-1, SHA-256, SHA-512, and HMAC computation</td><td>2026-05-20</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/developer/uuid-generator/">UUID Generator</a></td><td>UUID v1, v4, and v7 in five display formats, cryptographically random</td><td>2026-06-28</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/developer/json-formatter/">JSON Formatter & Validator</a></td><td>Pretty-print, minify, and validate JSON with syntax highlighting</td><td>2026-07-08</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/developer/regex-tester/">Regex Tester</a></td><td>Live match highlighting and group capture view</td><td>2026-07-07</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/developer/uuid-generator/">UUID v1, v4 & v7 Generator</a></td><td>Five display formats, cryptographically random, 100% local</td><td>2026-06-28</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/developer/json-formatter/">JSON Formatter, Validator & Tree Viewer</a></td><td>Pretty-print, minify, and browse JSON in a collapsible tree with syntax highlighting</td><td>2026-07-08</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/developer/regex-tester/">Regex Tester & Match Debugger</a></td><td>Live match highlighting, capture groups, and step-through debugging</td><td>2026-07-07</td></tr>
 <tr><td>Text / Code Diff Viewer <em>(coming)</em></td><td>Side-by-side and unified diff with line-level highlighting</td><td>2026-08*</td></tr>
 <tr><td>Binary Package Differ <em>(coming)</em></td><td>Diff two ZIP archives or build artifacts: file tree, size delta, byte-level changes</td><td>2026-08*</td></tr>
 <tr><td>WASM Binary Inspector <em>(coming)</em></td><td>Decompile WebAssembly to WAT, memory map, exports and imports</td><td>2026-08*</td></tr>
@@ -135,7 +135,7 @@
 <tbody>
 <tr><td><a href="https://capytoolkit.com/tools/audio/mic-test/">Microphone Quality, Noise & Latency Tester</a></td><td>Noise floor, clipping, frequency response, echo loopback, and round-trip latency</td><td>2026-04-22</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/audio/speaker-sweep/">Speaker Frequency Sweep & Resonance Tester</a></td><td>20 Hz to 20 kHz sweep to find resonances, rattle points, and drop-off frequencies</td><td>2026-04-24</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/audio/decibel-calc/">Decibel Calculator</a></td><td>Convert between dB, watts, volts, and SPL with formula reference</td><td>2026-05-08</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/audio/decibel-calc/">Decibel & SPL Cross-Domain Calculator</a></td><td>Convert between dB, watts, volts, and sound pressure level, with formula reference</td><td>2026-05-08</td></tr>
 </tbody>
 </table>
 
@@ -150,11 +150,11 @@
 </tr>
 </thead>
 <tbody>
-<tr><td><a href="https://capytoolkit.com/tools/math/resistor-calc/">Resistor Colour Code Calculator</a></td><td>4-band, 5-band, and 6-band decoding with tolerance, temperature coefficient, E-series</td><td>2026-04-24</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/math/engineering-unit-converter/">Engineering Unit Converter</a></td><td>SI and imperial units across 17 physical dimensions</td><td>2026-05-02</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/math/electricity-unit-converter/">Electricity Unit Converter</a></td><td>Charge, current, voltage, resistance, capacitance, inductance across 15 dimensions</td><td>2026-05-02</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/math/ohms-law/">Ohm's Law Calculator</a></td><td>Solve for voltage, current, resistance, or power from any two values</td><td>2026-05-07</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/math/aspect-ratio/">Aspect Ratio Calculator</a></td><td>Display resolutions, scaling, and letterbox bars for any ratio</td><td>2026-05-07</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/math/resistor-calc/">Resistor Color Code Calculator</a></td><td>4-band, 5-band, and 6-band decoding with tolerance, temperature coefficient, E-series</td><td>2026-04-24</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/math/engineering-unit-converter/">Engineering Unit Converter</a></td><td>SI, imperial, and domain-specific units spanning length, mass, temperature, pressure, energy, and more</td><td>2026-05-02</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/math/electricity-unit-converter/">Electrical Unit Converter</a></td><td>Charge, current, voltage, resistance, capacitance, inductance, and more, converted with SI precision</td><td>2026-05-02</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/math/ohms-law/">Ohm's Law & Power Calculator</a></td><td>Enter any two of voltage, current, resistance, or power, solve for the rest instantly</td><td>2026-05-07</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/math/aspect-ratio/">Aspect Ratio & Letterbox Calculator</a></td><td>Display resolutions and scaling for any ratio, with letterbox bars calculated automatically</td><td>2026-05-07</td></tr>
 </tbody>
 </table>
 
@@ -169,8 +169,8 @@
 </tr>
 </thead>
 <tbody>
-<tr><td><a href="https://capytoolkit.com/tools/text/readability-score/">Readability Analyser</a></td><td>Flesch-Kincaid Grade, Flesch Reading Ease, and SMOG with sentence-level highlights</td><td>2026-04-27</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/text/case-converter/">Case Converter</a></td><td>camelCase, snake_case, SCREAMING_SNAKE, kebab-case, Title Case, PascalCase</td><td>2026-05-07</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/text/readability-score/">Flesch-Kincaid & SMOG Readability Scorer</a></td><td>Sentence-level highlights show exactly which lines drag your grade level down</td><td>2026-04-27</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/text/case-converter/">Text Case Format Converter</a></td><td>camelCase, snake_case, SCREAMING_SNAKE, kebab-case, Title Case, PascalCase</td><td>2026-05-07</td></tr>
 <tr><td>Reading Time Calculator <em>(coming)</em></td><td>Reading time estimate at adjustable WPM targets</td><td>2026-08*</td></tr>
 <tr><td>Markdown Preview <em>(coming)</em></td><td>Live-render Markdown with clean typeset output and copy-as-HTML export</td><td>2026-08*</td></tr>
 </tbody>
