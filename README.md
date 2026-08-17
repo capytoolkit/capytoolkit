@@ -171,6 +171,7 @@
 <tbody>
 <tr><td><a href="https://capytoolkit.com/tools/text/readability-score/">Flesch-Kincaid & SMOG Readability Scorer</a></td><td>Sentence-level highlights show exactly which lines drag your grade level down</td><td>2026-04-27</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/text/case-converter/">Text Case Format Converter</a></td><td>camelCase, snake_case, SCREAMING_SNAKE, kebab-case, Title Case, PascalCase</td><td>2026-05-07</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/text/offline-private-ai-text-detector/">Offline & Private AI Text Detector</a></td><td>Score how AI-generated your writing reads, fully offline and private in your browser, with no signup and no paywall.</td><td>2026-08-17</td></tr>
 <tr><td>Reading Time Calculator <em>(coming)</em></td><td>Reading time estimate at adjustable WPM targets</td><td>2026-08*</td></tr>
 <tr><td>Markdown Preview <em>(coming)</em></td><td>Live-render Markdown with clean typeset output and copy-as-HTML export</td><td>2026-08*</td></tr>
 </tbody>
