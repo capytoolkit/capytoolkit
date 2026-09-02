@@ -64,8 +64,8 @@
 <tr><td><a href="https://capytoolkit.com/tools/hardware/input-lag/">Input Lag & Mouse Polling Rate Tester</a></td><td>Browser input latency and mouse polling rate via PointerEvent API</td><td>2026-04-24</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/hardware/webcam-test/">Webcam Lighting & Framing Analyzer</a></td><td>Lighting balance, face framing, and resolution diagnostics</td><td>2026-04-22</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/hardware/monitor-test/">Dead Pixel & Flicker Test Suite</a></td><td>Backlight bleed, motion ghosting, and color banding checks, fullscreen test modes</td><td>2026-04-21</td></tr>
-<tr><td>Live Signal Debugger <em>(coming)</em></td><td>Real-time USB/Serial/Bluetooth signals from Arduino, sensors, MIDI controllers</td><td>2026-09*</td></tr>
-<tr><td>WebUSB Hardware Flasher <em>(coming)</em></td><td>Flash firmware to ESP32, Arduino, and Raspberry Pi Pico in-browser</td><td>2026-09*</td></tr>
+<tr><td>Live Signal Debugger <em>(coming)</em></td><td>Real-time USB/Serial/Bluetooth signals from Arduino, sensors, MIDI controllers</td><td>2026-11*</td></tr>
+<tr><td>WebUSB Hardware Flasher <em>(coming)</em></td><td>Flash firmware to ESP32, Arduino, and Raspberry Pi Pico in-browser</td><td>2026-11*</td></tr>
 </tbody>
 </table>
 
@@ -90,9 +90,9 @@
 <tr><td><a href="https://capytoolkit.com/tools/developer/base64/">Base64 Text & File Encoder/Decoder</a></td><td>Converts between raw data and Base64 entirely client-side, nothing uploaded</td><td>2026-05-06</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/cron-parser/">Cron Expression Parser & Next-Run Preview</a></td><td>Translate cron syntax into plain English, see upcoming run times at a glance</td><td>2026-04-25</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/developer/jwt-decoder/">JWT Decoder & Claims Inspector</a></td><td>Decode header and payload, check expiry and claims</td><td>2026-04-24</td></tr>
-<tr><td>Text / Code Diff Viewer <em>(coming)</em></td><td>Side-by-side and unified diff with line-level highlighting</td><td>2026-08*</td></tr>
-<tr><td>Binary Package Differ <em>(coming)</em></td><td>Diff two ZIP archives or build artifacts: file tree, size delta, byte-level changes</td><td>2026-08*</td></tr>
-<tr><td>WASM Binary Inspector <em>(coming)</em></td><td>Decompile WebAssembly to WAT, memory map, exports and imports</td><td>2026-08*</td></tr>
+<tr><td>Text / Code Diff Viewer <em>(coming)</em></td><td>Side-by-side and unified diff with line-level highlighting</td><td>2026-10*</td></tr>
+<tr><td>Binary Package Differ <em>(coming)</em></td><td>Diff two ZIP archives or build artifacts: file tree, size delta, byte-level changes</td><td>2026-10*</td></tr>
+<tr><td>WASM Binary Inspector <em>(coming)</em></td><td>Decompile WebAssembly to WAT, memory map, exports and imports</td><td>2026-10*</td></tr>
 </tbody>
 </table>
 
@@ -116,9 +116,9 @@
 <tr><td><a href="https://capytoolkit.com/tools/security/browser-fingerprint/">Browser Fingerprint & Privacy Leak Inspector</a></td><td>Canvas hash, WebGL renderer, audio fingerprint, fonts, and 30+ leak signals</td><td>2026-05-04</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/security/exif-scrubber/">EXIF & Image Metadata Scrubber</a></td><td>Strip GPS coordinates, timestamps, and device data from images</td><td>2026-04-23</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/security/hash-verifier/">File Hash Verifier</a></td><td>SHA-256, SHA-512, SHA-1, and MD5 checksums compared against a published hash</td><td>2026-04-23</td></tr>
-<tr><td>Quantum-Safe Encryptor <em>(coming)</em></td><td>Post-quantum encryption and decryption via Kyber/Dilithium WASM</td><td>2026-08*</td></tr>
-<tr><td>Build Integrity Verifier <em>(coming)</em></td><td>SHA-256 and BLAKE3 artifact comparison with functional content diff</td><td>2026-08*</td></tr>
-<tr><td>Local Secret Scanner <em>(coming)</em></td><td>Scan code, configs, and ZIP archives for API keys, tokens, and credentials</td><td>2026-08*</td></tr>
+<tr><td>Quantum-Safe Encryptor <em>(coming)</em></td><td>Post-quantum encryption and decryption via Kyber/Dilithium WASM</td><td>2026-10*</td></tr>
+<tr><td>Build Integrity Verifier <em>(coming)</em></td><td>SHA-256 and BLAKE3 artifact comparison with functional content diff</td><td>2026-10*</td></tr>
+<tr><td>Local Secret Scanner <em>(coming)</em></td><td>Scan code, configs, and ZIP archives for API keys, tokens, and credentials</td><td>2026-10*</td></tr>
 </tbody>
 </table>
 
@@ -172,8 +172,8 @@
 <tr><td><a href="https://capytoolkit.com/tools/text/offline-private-ai-text-detector/">Offline & Private AI Text Detector</a></td><td>Score how AI-generated your writing reads, fully offline and private in your browser, with no signup and no paywall.</td><td>2026-08-17</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/text/case-converter/">Text Case Format Converter</a></td><td>camelCase, snake_case, SCREAMING_SNAKE, kebab-case, Title Case, PascalCase</td><td>2026-05-07</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/text/readability-score/">Flesch-Kincaid & SMOG Readability Scorer</a></td><td>Sentence-level highlights show exactly which lines drag your grade level down</td><td>2026-04-27</td></tr>
-<tr><td>Reading Time Calculator <em>(coming)</em></td><td>Reading time estimate at adjustable WPM targets</td><td>2026-08*</td></tr>
-<tr><td>Markdown Preview <em>(coming)</em></td><td>Live-render Markdown with clean typeset output and copy-as-HTML export</td><td>2026-08*</td></tr>
+<tr><td>Reading Time Calculator <em>(coming)</em></td><td>Reading time estimate at adjustable WPM targets</td><td>2026-10*</td></tr>
+<tr><td>Markdown Preview <em>(coming)</em></td><td>Live-render Markdown with clean typeset output and copy-as-HTML export</td><td>2026-10*</td></tr>
 </tbody>
 </table>
 
@@ -220,12 +220,12 @@
 
 ## Recent posts
 
+- [Debugging API Responses Locally in the Browser: A JSON Formatter Workflow That Never Sends Your Payload](https://capytoolkit.com/blog/developer-tools/debugging-api-responses-locally-browser-json-formatter-workflow/) - A three-minute local debugging routine for API responses: format, validate, locate the broken line, browse large payloads as a tree, and minify.
+- [Running an LLM in Your Browser: Verifying WebGPU, Model Hashes, and Local Inference Without a Server](https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/) - Verify a local browser LLM before you trust it: check WebGPU support, hash the model file, and audit what your browser leaks while it runs.
+- [Post-Quantum TLS in 2026: What a Certificate Inspector Can and Cannot Tell You Yet](https://capytoolkit.com/blog/security-privacy/post-quantum-tls-certificate-inspector-can-and-cannot-tell-you/) - Half the web negotiates post-quantum handshakes while certificates stay classical. Run a five-minute local audit to see where your domains stand.
 - [Where Your Text Goes When You Check It for AI: Six Detectors Compared](https://capytoolkit.com/blog/security-privacy/where-your-text-goes-when-you-check-it-for-ai-six-detectors-compared/) - Six AI detectors compared on signup, free caps, price, and where your text is actually processed, plus how to read a 99% accuracy claim.
 - [Testing a USB Audio Interface or DAC at Home: Browser Checks for Noise Floor, Loopback, and Latency](https://capytoolkit.com/blog/audio/testing-usb-audio-interface-dac-browser-noise-floor-loopback-latency/) - Test a USB audio interface or DAC noise floor, loopback quality, clipping headroom, and round-trip latency in your browser before the return window closes.
 - [Verifying Your FIDO2 Hardware Security Key: What a Browser Can Confirm](https://capytoolkit.com/blog/security-privacy/verifying-your-fido2-hardware-security-key-what-a-browser-can-confirm/) - Verify your FIDO2 key is genuine with a browser-only routine: read its attestation chain, check fingerprint leaks, and test backup password strength.
-- [How to Tell If a microSD Card or External SSD Is Fake or Slower Than Advertised](https://capytoolkit.com/blog/buying-guides/tell-if-microsd-card-external-ssd-fake-slower-advertised/) - How to catch counterfeit and underperforming storage before you lose data, using browser-based hash verification alongside native capacity and speed tools.
-- [Privacy-First Smart Home Cameras and Doorbells: Local Processing vs. Cloud, and What To Check](https://capytoolkit.com/blog/buying-guides/privacy-smart-home-cameras-doorbells-local-cloud-check/) - How to read past camera marketing and buy a smart home camera or doorbell that keeps footage local, from on-device AI to open protocols.
-- [Hall-Effect Controllers Still Drift: How to Verify the "Drift-Free" Claim in Your Browser](https://capytoolkit.com/blog/buying-guides/hall-effect-controllers-still-drift-verify-drift-free-claim-browser/) - Paid extra for Hall-effect sticks? Read raw Gamepad API axis values in your browser to confirm whether your controller actually drifts.
 
 ---
 
