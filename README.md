@@ -6,7 +6,7 @@
   <p>Most browser tools send your data to a server. These don't.</p>
 
   <p>
-    46 live browser-based utility tools for developers, hardware diagnostics, security work, and personal tasks.<br>
+    46 live browser-based utility tools for hardware diagnostics, developer parsers and encoders, text analysis and conversion, audio and acoustic testing, math and engineering calculations, security and privacy, web design and CSS, network and web references, and personal tasks.<br>
     Everything runs client-side. No uploads, no accounts.
   </p>
 
