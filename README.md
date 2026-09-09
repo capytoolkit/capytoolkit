@@ -6,7 +6,7 @@
   <p>Most browser tools send your data to a server. These don't.</p>
 
   <p>
-    Browser-based utility tools for developers, hardware diagnostics, and security work.<br>
+    46 live browser-based utility tools for developers, hardware diagnostics, security work, and personal tasks.<br>
     Everything runs client-side. No uploads, no accounts.
   </p>
 
@@ -214,18 +214,33 @@
 </tbody>
 </table>
 
+### Personal Tools
+
+<table>
+<thead>
+<tr>
+<th width="33%">Tool</th>
+<th width="47%">Description</th>
+<th width="20%">Release date</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><a href="https://capytoolkit.com/tools/personal/passport-photo/">Passport & Visa Photo Cropper</a></td><td>Crop a passport or visa photo to official millimetre size and eye-line on this device. Nothing uploaded.</td><td>2026-09-08</td></tr>
+</tbody>
+</table>
+
 <sub>* Planned release</sub>
 
 ---
 
 ## Recent posts
 
+- [After IndexNow: 6 Launch Channels Indie Founders Skip, and How to Hit Them in a Weekend](https://capytoolkit.com/blog/guides/after-indexnow-6-launch-channels-indie-founders-skip-weekend/) - Six distribution channels solo founders skip, with weekend time budgets for each.
 - [Debugging API Responses Locally in the Browser: A JSON Formatter Workflow That Never Sends Your Payload](https://capytoolkit.com/blog/developer-tools/debugging-api-responses-locally-browser-json-formatter-workflow/) - A three-minute local debugging routine for API responses: format, validate, locate the broken line, browse large payloads as a tree, and minify.
 - [Running an LLM in Your Browser: Verifying WebGPU, Model Hashes, and Local Inference Without a Server](https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/) - Verify a local browser LLM before you trust it: check WebGPU support, hash the model file, and audit what your browser leaks while it runs.
 - [Post-Quantum TLS in 2026: What a Certificate Inspector Can and Cannot Tell You Yet](https://capytoolkit.com/blog/security-privacy/post-quantum-tls-certificate-inspector-can-and-cannot-tell-you/) - Half the web negotiates post-quantum handshakes while certificates stay classical. Run a five-minute local audit to see where your domains stand.
 - [Where Your Text Goes When You Check It for AI: Six Detectors Compared](https://capytoolkit.com/blog/security-privacy/where-your-text-goes-when-you-check-it-for-ai-six-detectors-compared/) - Six AI detectors compared on signup, free caps, price, and where your text is actually processed, plus how to read a 99% accuracy claim.
 - [Testing a USB Audio Interface or DAC at Home: Browser Checks for Noise Floor, Loopback, and Latency](https://capytoolkit.com/blog/audio/testing-usb-audio-interface-dac-browser-noise-floor-loopback-latency/) - Test a USB audio interface or DAC noise floor, loopback quality, clipping headroom, and round-trip latency in your browser before the return window closes.
-- [Verifying Your FIDO2 Hardware Security Key: What a Browser Can Confirm](https://capytoolkit.com/blog/security-privacy/verifying-your-fido2-hardware-security-key-what-a-browser-can-confirm/) - Verify your FIDO2 key is genuine with a browser-only routine: read its attestation chain, check fingerprint leaks, and test backup password strength.
 
 ---
 
