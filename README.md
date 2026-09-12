@@ -47,6 +47,8 @@
 
 ## Tools
 
+[![CapyToolkit on StartupScores](https://startupscores.com/badge/capytoolkit.svg?style=shield&v=combo&theme=dark)](https://startupscores.com/open-source/capytoolkit)
+
 ### Hardware & Display Diagnostics
 
 <table>
