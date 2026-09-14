@@ -6,7 +6,7 @@
   <p>Most browser tools send your data to a server. These don't.</p>
 
   <p>
-    48 live browser-based utility tools for hardware diagnostics, developer parsers and encoders, text analysis and conversion, audio and acoustic testing, math and engineering calculations, security and privacy, web design and CSS, network and web references, and personal tasks.<br>
+    49 live browser-based utility tools for hardware diagnostics, developer parsers and encoders, text analysis and conversion, audio and acoustic testing, math and engineering calculations, security and privacy, web design and CSS, network and web references, and personal tasks.<br>
     Everything runs client-side. No uploads, no accounts.
   </p>
 
@@ -60,8 +60,8 @@
 <tbody>
 <tr><td><a href="https://capytoolkit.com/tools/hardware/webcam-latency/">Webcam A/V Sync & Latency Meter</a></td><td>Millisecond offset between webcam and microphone, OBS-ready output</td><td>2026-05-20</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/hardware/gamepad-test/">Gamepad & Joystick Drift Tester</a></td><td>Analog stick drift, dead zone visualization, button diagnostics</td><td>2026-04-30</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/hardware/midi-test/">Web MIDI Keyboard & Latency Tester</a></td><td>Dead keys, ghost notes, and USB-to-browser MIDI input latency</td><td>2026-04-24</td></tr>
-<tr><td><a href="https://capytoolkit.com/tools/hardware/input-lag/">Input Lag & Mouse Polling Rate Tester</a></td><td>Browser input latency and mouse polling rate via PointerEvent API</td><td>2026-04-24</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/hardware/midi-test/">Web MIDI Keyboard Latency Tester</a></td><td>Dead keys, ghost notes, and USB-to-browser MIDI input latency</td><td>2026-04-24</td></tr>
+<tr><td><a href="https://capytoolkit.com/tools/hardware/input-lag/">Mouse Polling Rate & Input Lag Tester</a></td><td>Browser input latency and mouse polling rate via PointerEvent API</td><td>2026-04-24</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/hardware/webcam-test/">Webcam Lighting & Framing Analyzer</a></td><td>Lighting balance, face framing, and resolution diagnostics</td><td>2026-04-22</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/hardware/monitor-test/">Dead Pixel & Flicker Test Suite</a></td><td>Backlight bleed, motion ghosting, and color banding checks, fullscreen test modes</td><td>2026-04-21</td></tr>
 <tr><td>Live Signal Debugger <em>(coming)</em></td><td>Real-time USB/Serial/Bluetooth signals from Arduino, sensors, MIDI controllers</td><td>2026-11*</td></tr>
@@ -225,6 +225,7 @@
 </tr>
 </thead>
 <tbody>
+<tr><td><a href="https://capytoolkit.com/tools/personal/phone-scan-deskew-to-pdf/">Phone-Scan Deskew to PDF</a></td><td>Straighten a trapezoid phone photo of a document into a clean, multi-page PDF on this device. Nothing uploaded.</td><td>2026-09-14</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/personal/pdf-toolkit/">Local PDF Toolkit</a></td><td>Merge, split, reorder, rotate, and compress PDFs on this device. Nothing uploaded.</td><td>2026-09-10</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/personal/image-shrink-to-limit/">Image Shrink-to-Limit</a></td><td>Reduce one image to an email, form, or app file-size cap on this device. Nothing uploaded.</td><td>2026-09-10</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/personal/passport-photo/">Passport & Visa Photo Cropper</a></td><td>Crop a passport or visa photo to official millimetre size and eye-line on this device. Nothing uploaded.</td><td>2026-09-08</td></tr>
@@ -237,12 +238,12 @@
 
 ## Recent posts
 
+- [Prepare a USCIS Filing Packet as Clean PDFs Without Uploading a Single Page](https://capytoolkit.com/blog/guides/prepare-uscis-filing-packet-as-clean-pdfs-uploading-a-single-page/) - Assemble a USCIS filing packet with current form editions, clean scans, ordered merges, and portal-ready file sizes, all without uploading a page.
 - [After IndexNow: 6 Launch Channels Indie Founders Skip, and How to Hit Them in a Weekend](https://capytoolkit.com/blog/guides/after-indexnow-6-launch-channels-indie-founders-skip-weekend/) - Six distribution channels solo founders skip, with weekend time budgets for each.
 - [Debugging API Responses Locally in the Browser: A JSON Formatter Workflow That Never Sends Your Payload](https://capytoolkit.com/blog/developer-tools/debugging-api-responses-locally-browser-json-formatter-workflow/) - A three-minute local debugging routine for API responses: format, validate, locate the broken line, browse large payloads as a tree, and minify.
 - [Running an LLM in Your Browser: Verifying WebGPU, Model Hashes, and Local Inference Without a Server](https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/) - Verify a local browser LLM before you trust it: check WebGPU support, hash the model file, and audit what your browser leaks while it runs.
 - [Post-Quantum TLS in 2026: What a Certificate Inspector Can and Cannot Tell You Yet](https://capytoolkit.com/blog/security-privacy/post-quantum-tls-certificate-inspector-can-and-cannot-tell-you/) - Half the web negotiates post-quantum handshakes while certificates stay classical. Run a five-minute local audit to see where your domains stand.
 - [Where Your Text Goes When You Check It for AI: Six Detectors Compared](https://capytoolkit.com/blog/security-privacy/where-your-text-goes-when-you-check-it-for-ai-six-detectors-compared/) - Six AI detectors compared on signup, free caps, price, and where your text is actually processed, plus how to read a 99% accuracy claim.
-- [Testing a USB Audio Interface or DAC at Home: Browser Checks for Noise Floor, Loopback, and Latency](https://capytoolkit.com/blog/audio/testing-usb-audio-interface-dac-browser-noise-floor-loopback-latency/) - Test a USB audio interface or DAC noise floor, loopback quality, clipping headroom, and round-trip latency in your browser before the return window closes.
 
 ---
 
