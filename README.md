@@ -6,7 +6,7 @@
   <p>Most browser tools send your data to a server. These don't.</p>
 
   <p>
-    49 live browser-based utility tools for hardware diagnostics, developer parsers and encoders, text analysis and conversion, audio and acoustic testing, math and engineering calculations, security and privacy, web design and CSS, network and web references, and personal tasks.<br>
+    50 live browser-based utility tools for hardware diagnostics, developer parsers and encoders, text analysis and conversion, audio and acoustic testing, math and engineering calculations, security and privacy, web design and CSS, network and web references, and personal tasks.<br>
     Everything runs client-side. No uploads, no accounts.
   </p>
 
@@ -225,6 +225,7 @@
 </tr>
 </thead>
 <tbody>
+<tr><td><a href="https://capytoolkit.com/tools/personal/receipt-item-splitter/">Receipt Item Splitter</a></td><td>Assign receipt lines to people and split tax and tip on this device. Nothing uploaded.</td><td>2026-09-17</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/personal/phone-scan-deskew-to-pdf/">Phone-Scan Deskew to PDF</a></td><td>Straighten a trapezoid phone photo of a document into a clean, multi-page PDF on this device. Nothing uploaded.</td><td>2026-09-14</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/personal/pdf-toolkit/">Local PDF Toolkit</a></td><td>Merge, split, reorder, rotate, and compress PDFs on this device. Nothing uploaded.</td><td>2026-09-10</td></tr>
 <tr><td><a href="https://capytoolkit.com/tools/personal/image-shrink-to-limit/">Image Shrink-to-Limit</a></td><td>Reduce one image to an email, form, or app file-size cap on this device. Nothing uploaded.</td><td>2026-09-10</td></tr>
